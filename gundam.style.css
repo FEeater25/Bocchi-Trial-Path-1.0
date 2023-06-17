@@ -1,0 +1,36 @@
+#gundam1{
+    display: block;
+    font-size: 20px;
+    color-scheme: grey;
+    float: left;
+    margin-right: 5px;
+    
+}
+#gundam2{
+    display: block;
+    font-size: 20px;
+    color-scheme: grey;
+    float: left;
+    margin-right: 5px;
+
+}
+#gundam3{
+    display: block;
+    font-size: 20px;
+    color-scheme: grey;
+    float: left;
+    margin-right: 5px;
+}
+#gundam4{
+    display: block;
+    font-size: 20px;
+    color-scheme: grey;
+    float: left;
+    margin-right: 5px;
+}
+
+.navbar1{
+    align-items: center;
+    background-color: grey
+    
+}

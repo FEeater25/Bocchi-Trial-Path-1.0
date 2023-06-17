@@ -1,0 +1,100 @@
+
+/* #myDiv{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+} */
+/* #innerDiv{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+}
+#outterDiv{
+    background-color: lightcoral;
+    width: 200px;
+    height: 200px;
+}
+#myImg{
+    height: 300px; */
+    
+/* } */
+/* #myBox{
+    border: 1px solid rgb(110, 148, 110); */
+    /* background-color: greenyellow ; */
+
+.timeBtn{
+    height: 30px;
+    width: 80px;
+    background-color: grey;
+    color: greenyellow;
+    border: 2px solid;
+    border-radius: 12px;
+    cursor: pointer;
+}
+#timeDisplay{
+   font-size: 75px;
+    color: greenyellow;
+}
+
+#timeContainer{
+    width: max-content;
+    text-align: center;
+    border: 2px solid;
+    background-color: grey;
+    border: 2px solid;
+    border-radius: 12px;
+
+ 
+    
+}
+.gameButton{
+    border: 2px solid;
+    border-radius: 8px;
+    background-color: grey;
+    color: white;
+    border-color: grey;
+}
+#gameContainer{
+
+    align-content: center;
+    border: 4px solid;
+    border-radius: 25px;
+    width: 360px;
+    height: 240px;
+    background-color: whitesmoke;
+    
+}
+#PlayerText{
+    color: salmon;
+}
+#ComputerText{
+    color: skyblue;
+}
+#ResultText{
+    color: greenyellow;
+}
+
+#gameContainerTic{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   
+}   
+.cell{
+    width: 75px;
+    height: 75px;
+    border: 3px solid;
+    box-shadow: 0 0 0 2px;
+    font-size: 50px;
+    cursor: pointer;
+    
+}
+#cellContainer{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 230px;
+    margin: auto;
+}
+
